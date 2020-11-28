@@ -16,7 +16,7 @@ Bu Meguri berpesan pada Anri untuk menyusun topologi secara hati-hati dan memper
 gambar topologi yang diberikan Bu Meguri.
 Karena TUBAN jauh dari client, maka perlu adanya perantara agar bisa saling terhubung.
 
-## Jawaban soal 1
+### Jawaban soal 1
 
 ## Soal 2
 **(2) SURABAYA** ditunjuk sebagai perantara **(DHCP Relay)** antara DHCP Server dan client. 
@@ -49,17 +49,6 @@ pada subnet 3 mendapatkan peminjaman IP selama 10 menit.
    
 
 ### Jawaban soal 6
-
-## Soal 7
-(7) User autentikasi
-milik Anri memiliki format:
-● User : userta_yyy
-● Password : inipassw0rdta_yyy
-Keterangan : yyy adalah nama kelompok masing-masing. Contoh: userta_c01
-Anri sudah menjadwal pengerjaan TA-nya
-   
-
-### Jawaban soal 7
 
 ## Soal 7
 **(7)** User autentikasi
