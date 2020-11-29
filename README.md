@@ -127,7 +127,7 @@ Anri sudah menjadwal pengerjaan TA-nya
 Pertama kita buat user dan password dengan config seperti berikut :
 
 ```
-htpasswd -c /etc/squid/passwd usertab04
+htpasswd -c /etc/squid/passwd userta_b04
 ```
 
 kemudian kita atur konfigurasi squid menjadi seperti berikut :
@@ -213,11 +213,4 @@ kemudian tambahkan file janganlupa-ta.b04.pw dengan konfigurasi berikut :
 
 ![soal-12](asset/DNS2.png)
 
-lalu setting proxy dengan menambahkan 
 
-```
-http_port 8080
-visible_hostname janganlupa-ta.b04.pw
-```
-
-![soal-11](asset/Proxyconf1.png)
