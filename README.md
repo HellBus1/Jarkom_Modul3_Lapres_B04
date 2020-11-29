@@ -194,6 +194,21 @@ http_reply_access deny redirect
 ## Soal 11
 Bu Meguri meminta Anri untuk **mengubah error page default squid** menjadi seperti pada soal
    
+Untuk merubah error page kita perlu merubah squid.conf
+Dengan menambahkan seperti pada gambar
+
+![soal-11](asset/Error.png)
+
+Lalu kita rubah pada file errornya dengan command berikut 
+
+```
+cd /usr/share/squid/errors/English
+mv ERR_ACCESS_DENIED ERR_ACCESS_DENIED_1
+wget 10.151.36.202/ERR_ACCESS_DENIED
+Restart squid
+Test di browser 
+```
+
 
 ### Jawaban soal 11
 ![soal-11](asset/Proxyconf1.png)
