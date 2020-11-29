@@ -204,9 +204,7 @@ Lalu kita rubah pada file errornya dengan command berikut
 ```
 cd /usr/share/squid/errors/English
 mv ERR_ACCESS_DENIED ERR_ACCESS_DENIED_1
-wget 10.151.36.202/ERR_ACCESS_DENIED
-Restart squid
-Test di browser 
+wget 10.151.36.202/ERR_ACCESS_DENIED 
 ```
 
 
