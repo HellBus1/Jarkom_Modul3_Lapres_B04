@@ -197,7 +197,7 @@ Bu Meguri meminta Anri untuk **mengubah error page default squid** menjadi seper
 Untuk merubah error page kita perlu merubah squid.conf
 Dengan menambahkan seperti pada gambar
 
-![soal-11](asset/Error.png)
+![soal-11](asset/1606652465222.jpg)
 
 Lalu kita rubah pada file errornya dengan command berikut 
 
